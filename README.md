@@ -11,6 +11,9 @@ Note you will need to generate a personal access token with access to repo:statu
 Beyond that, you should be able to just replace the "YOUR_X_HERE" variables within the scripts for your particular project plan and be good to go!
 
 Some limitations:
-  target_url should work, but for whatever reason is returning errors from the GitHub API. YMMV.
-  Tested using Bamboo 7.2.2
-  You may need to manually repalce the "YOUR_X_HERE" variables instead of referencing them, YMMV.
+
+  * target_url should work, but for whatever reason is returning errors from the GitHub API. YMMV.
+
+  * Tested using Bamboo 7.2.2
+
+  * You may need to manually repalce the "YOUR_X_HERE" variables instead of referencing them, YMMV.
